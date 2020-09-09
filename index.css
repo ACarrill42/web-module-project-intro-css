@@ -49,16 +49,25 @@ table {
     
 }
 .info-pages .visit{
-    margin: 6em;
+    margin: 4em;
+    padding: 10px;
+    border: 10px;
+    background-color:#FF764E;
     
 
 }
 .info-pages .learn{
-    margin: 6em;
+    margin: 4em;
+    padding: 10px;
+    border: 10px;
+    background-color:#5ED3EB;
 
 }
 .info-pages .involve{
-    margin: 6em;
+    margin: 4em;
+    padding: 10px;
+    border: 10px;
+    background-color:#FFCD69; 
 
 }
 #title-image{
@@ -70,8 +79,8 @@ table {
 
 }
 .header{
-    display:float;
-    
+    display:inline;
+
 }
 }
 .info-pics{
@@ -81,8 +90,37 @@ table {
     width: 40%;
 }
 .info-pics .img-one{
+    
 
 }
 .info-pics .img-two{
+
+}
+#footer-nav{
+    display:inline-block;
+    width: 50%;
+    padding: 10%
+}
+#footer-nav .visit{
+    margin: 4em;
+    padding: 10px;
+    border: 10px;
+    background-color:#FF764E;
+
+}
+
+#footer-nav .learn{
+    margin: 4em;
+    padding: 10px;
+    border: 10px;
+    background-color: #5ED3EB;
+
+}
+
+#footer-nav .involve{
+    margin: 4em;
+    padding: 10px;
+    border: 10px;
+    background-color:#FFCD69;
 
 }
