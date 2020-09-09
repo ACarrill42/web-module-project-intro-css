@@ -82,6 +82,8 @@ table {
     display:inline;
 
 }
+h1{
+    margin-left:20%;
 }
 .info-pics{
     display: block;
@@ -90,7 +92,7 @@ table {
     width: 40%;
 }
 .info-pics .img-one{
-    
+
 
 }
 .info-pics .img-two{
