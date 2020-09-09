@@ -79,7 +79,7 @@ table {
 
 }
 .header{
-    display:inline;
+    width: 100%;
 
 }
 h1{
@@ -92,11 +92,12 @@ h1{
     width: 40%;
 }
 .info-pics .img-one{
-
+    height: 30%;
 
 }
 .info-pics .img-two{
-
+    height: 10%;
+    
 }
 #footer #footer-image{
     width: 100%;
