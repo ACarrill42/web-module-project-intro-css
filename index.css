@@ -61,3 +61,28 @@ table {
     margin: 6em;
 
 }
+#title-image{
+    border-radius: 50%;
+    width: 10%;
+    height: 10%;
+    margin: 0 10%;
+    margin-bottom: 5%;
+
+}
+.header{
+    display:float;
+    
+}
+}
+.info-pics{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.info-pics .img-one{
+
+}
+.info-pics .img-two{
+
+}
