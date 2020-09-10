@@ -18,29 +18,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 }
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
-footer, header, hgroup, menu, nav, section {
-	display: block;
-}
-body {
-	line-height: 1;
-}
-ol, ul {
-	list-style: none;
-}
-blockquote, q {
-	quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-	content: '';
-	content: none;
-}
-table {
-	border-collapse: collapse;
-	border-spacing: 0;
-}
+
 /*---------------------------------------------------------------------------*/
 html{
     box-sizing: border-box;
@@ -110,20 +88,19 @@ html{
     vertical-align: top;
     
   }
-  #first-sentence{
-    display: inline-block;
-    width: 50%;
-    margin-left: 47%;
-    margin-bottom: 2%;
-    font-size: 2em;
+  #title #p1{
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: .40em;
+    text-align: center;
   }
   
-  #second-sentence{
-    display: inline-block;
-    margin-left: 47%;
-    width: 35%;
-    font-size: 2em;
-    text-align:justify;
+  #title #p2{
+    text-align: center;
+    width: 70%;
+    font-size: .40em;
+    margin-left: 10%;
   }
   
   #mid-info{
@@ -143,6 +120,7 @@ html{
   .img-one{
     height: 25em;
     margin-left: 40%;
+    margin-top: 5%;
   }
   .first{
     display:block;
@@ -215,4 +193,3 @@ html{
     text-decoration:none;
     font-size: 2em;
   }
-
